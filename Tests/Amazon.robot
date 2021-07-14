@@ -15,7 +15,7 @@ Logged out user can search for product
     And User searches for product
     Then Search result contain relevant product
 
-
+#change
 Logged out user can view product
     [Tags]    smoke
     Given User is not logged in
