@@ -8,6 +8,7 @@ Test Teardown    End Web Tests
 
 *** Variables ***
 
+
 *** Test Cases ***
 Logged out user can search for product
     [Tags]    smoke
